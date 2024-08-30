@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/python-000?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/kubernetes-111?style=for-the-badge&logo=kubernetes">
+
 </div
 
 <hr/><hr/>
